@@ -1,0 +1,14 @@
+{
+  "main.css": "/okapi/static/css/main.75cc5a89.chunk.css",
+  "main.js": "/okapi/static/js/main.48f532e8.chunk.js",
+  "main.js.map": "/okapi/static/js/main.48f532e8.chunk.js.map",
+  "runtime~main.js": "/okapi/static/js/runtime~main.6e5ed1da.js",
+  "runtime~main.js.map": "/okapi/static/js/runtime~main.6e5ed1da.js.map",
+  "static/js/2.d509523c.chunk.js": "/okapi/static/js/2.d509523c.chunk.js",
+  "static/js/2.d509523c.chunk.js.map": "/okapi/static/js/2.d509523c.chunk.js.map",
+  "index.html": "/okapi/index.html",
+  "precache-manifest.2893b00f41cde11fb1644f330dd4003d.js": "/okapi/precache-manifest.2893b00f41cde11fb1644f330dd4003d.js",
+  "service-worker.js": "/okapi/service-worker.js",
+  "static/css/main.75cc5a89.chunk.css.map": "/okapi/static/css/main.75cc5a89.chunk.css.map",
+  "static/media/Okapi_logo.svg": "/okapi/static/media/Okapi_logo.2b3b4cf0.svg"
+}
