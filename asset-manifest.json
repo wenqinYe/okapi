@@ -1,14 +1,14 @@
 {
-  "main.css": "/okapi/static/css/main.2d7c9dff.chunk.css",
-  "main.js": "/okapi/static/js/main.6e0cb630.chunk.js",
-  "main.js.map": "/okapi/static/js/main.6e0cb630.chunk.js.map",
+  "main.css": "/okapi/static/css/main.a8d0b44e.chunk.css",
+  "main.js": "/okapi/static/js/main.f974be98.chunk.js",
+  "main.js.map": "/okapi/static/js/main.f974be98.chunk.js.map",
   "runtime~main.js": "/okapi/static/js/runtime~main.6e5ed1da.js",
   "runtime~main.js.map": "/okapi/static/js/runtime~main.6e5ed1da.js.map",
   "static/js/2.5dc33892.chunk.js": "/okapi/static/js/2.5dc33892.chunk.js",
   "static/js/2.5dc33892.chunk.js.map": "/okapi/static/js/2.5dc33892.chunk.js.map",
   "index.html": "/okapi/index.html",
-  "precache-manifest.3c0dfd7b87052ab82900afd7800d7259.js": "/okapi/precache-manifest.3c0dfd7b87052ab82900afd7800d7259.js",
+  "precache-manifest.e7bcc4bfeac251bdb6be56e586111cff.js": "/okapi/precache-manifest.e7bcc4bfeac251bdb6be56e586111cff.js",
   "service-worker.js": "/okapi/service-worker.js",
-  "static/css/main.2d7c9dff.chunk.css.map": "/okapi/static/css/main.2d7c9dff.chunk.css.map",
+  "static/css/main.a8d0b44e.chunk.css.map": "/okapi/static/css/main.a8d0b44e.chunk.css.map",
   "static/media/Okapi_logo.svg": "/okapi/static/media/Okapi_logo.2b3b4cf0.svg"
 }
