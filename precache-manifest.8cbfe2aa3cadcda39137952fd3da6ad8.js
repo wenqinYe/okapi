@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e39a88e21ba9b4f79c2e",
+    "revision": "79cc6d46d4eb2a7fff48",
     "url": "/okapi/static/css/main.a8d0b44e.chunk.css"
   },
   {
-    "revision": "e39a88e21ba9b4f79c2e",
-    "url": "/okapi/static/js/main.f974be98.chunk.js"
+    "revision": "79cc6d46d4eb2a7fff48",
+    "url": "/okapi/static/js/main.eb4b220e.chunk.js"
   },
   {
     "revision": "0b868587c8170620e2db",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/okapi/static/media/Okapi_logo.2b3b4cf0.svg"
   },
   {
-    "revision": "e20f6e3bab360e0e1508ed3f2faa752c",
+    "revision": "afd23fd46a09f656be3fbe06f024c177",
     "url": "/okapi/index.html"
   }
 ];
