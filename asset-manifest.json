@@ -1,5 +1,5 @@
 {
-  "main.css": "/okapi/static/css/main.a8d0b44e.chunk.css",
+  "main.css": "/okapi/static/css/main.5da69a37.chunk.css",
   "main.js": "/okapi/static/js/main.eb4b220e.chunk.js",
   "main.js.map": "/okapi/static/js/main.eb4b220e.chunk.js.map",
   "runtime~main.js": "/okapi/static/js/runtime~main.6e5ed1da.js",
@@ -7,8 +7,8 @@
   "static/js/2.5dc33892.chunk.js": "/okapi/static/js/2.5dc33892.chunk.js",
   "static/js/2.5dc33892.chunk.js.map": "/okapi/static/js/2.5dc33892.chunk.js.map",
   "index.html": "/okapi/index.html",
-  "precache-manifest.8cbfe2aa3cadcda39137952fd3da6ad8.js": "/okapi/precache-manifest.8cbfe2aa3cadcda39137952fd3da6ad8.js",
+  "precache-manifest.1d9bc022a003bf78a6911b8a0855e9ee.js": "/okapi/precache-manifest.1d9bc022a003bf78a6911b8a0855e9ee.js",
   "service-worker.js": "/okapi/service-worker.js",
-  "static/css/main.a8d0b44e.chunk.css.map": "/okapi/static/css/main.a8d0b44e.chunk.css.map",
+  "static/css/main.5da69a37.chunk.css.map": "/okapi/static/css/main.5da69a37.chunk.css.map",
   "static/media/Okapi_logo.svg": "/okapi/static/media/Okapi_logo.2b3b4cf0.svg"
 }
