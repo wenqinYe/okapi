@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/okapi/precache-manifest.ea822cac1597fc465f82c534010e26c1.js"
+  "/okapi/precache-manifest.107d050079e7064c3c1fd8c8a9eed9e7.js"
 );
 
 workbox.clientsClaim();
